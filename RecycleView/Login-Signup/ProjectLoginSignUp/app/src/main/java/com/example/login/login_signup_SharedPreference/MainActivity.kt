@@ -150,14 +150,14 @@ class MainActivity : AppCompatActivity() {
     myrv.layoutManager = LinearLayoutManager(this,RecyclerView.VERTICAL,false)
 
     var myDataList =  ArrayList<UserData>()
-    myDataList.add(UserData("Jai","jaiDubai@mango.com","7777777777"))
-    myDataList.add(UserData("Vishal","jaiDubaifdfd@mango.com","777743777777"))
-    myDataList.add(UserData("Jai","jaiDubadsfi@mango.com","777777777dfd7"))
-    myDataList.add(UserData("Bataiye","jaiDubfdai@mdfdango.com","77777777dsf77"))
-    myDataList.add(UserData("Jai","jaiDubai@mango.com","7777777777"))
-    myDataList.add(UserData("Vishal","jaiDubaifdfd@mango.com","777743777777"))
-    myDataList.add(UserData("JaiLol","jaiDubadsfi@mango.com","777777777dfd7"))
-    myDataList.add(UserData("Bataiye","jaiDubfdai@mdfdango.com","77777777dsf77"))
+    myDataList.add(UserData("Pallavi","pallavi@gmail.com","778996777"))
+    myDataList.add(UserData("Vishal","vishal@gmail.com","9087965732"))
+    myDataList.add(UserData("harshu","harshu@gmail.com","887766554433"))
+    myDataList.add(UserData("siri","siri@gmail.com","9090908989"))
+    myDataList.add(UserData("supriya","supriya@gmail.com","7778989654"))
+    myDataList.add(UserData("shrishti","shrishti@gmail.com","789897892"))
+    myDataList.add(UserData("ankita","ankita@gmail.com","9080706056"))
+    myDataList.add(UserData("himanshu","himanshu@gmail.com","7654321901"))
 
 
 
